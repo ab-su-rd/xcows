@@ -1,0 +1,6 @@
+add difficulty
+	- adaptive, will need to add a skill scale, and choose randomly from range. answering right should increase skill rating etc.					
+
+helpful-tip - random abuse etc ?
+
+error handling all around...
